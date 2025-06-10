@@ -21,3 +21,8 @@ macOS Ventura ver.13.7.4
 
 https://data.seoul.go.kr/dataList/OA-12764/F/1/datasetView.do
 ***
+### 기능 소개
+
+
+![Uploading Simulator Screen Shot - iPhone 14 Pro - 2025-06-10 at 15.22.14.png…]()
+
