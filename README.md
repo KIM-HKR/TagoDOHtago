@@ -42,7 +42,7 @@ https://data.seoul.go.kr/dataList/OA-12764/F/1/datasetView.do
 
 + **프리셋 화면**
 
-<img src="https://github.com/user-attachments/assets/0654645c-247b-4f4d-a3a3-905f590eb8b9" width="200">
+  <img src="https://github.com/user-attachments/assets/0654645c-247b-4f4d-a3a3-905f590eb8b9" width="200">
 
   검색에서 노란 별 아이콘과 상호작용한 역들이 이곳에 표시됩니다.
   
@@ -59,3 +59,11 @@ https://data.seoul.go.kr/dataList/OA-12764/F/1/datasetView.do
   개발자의 공지사항이 업데이트되는 곳입니다.
 
   firebase를 통해 업데이트가 되면 따라서 내용이 업로드 됩니다.
+
+***
+  
+### 📷 동작 영상
+
+https://github.com/user-attachments/assets/4424d7ed-9278-4ca6-a636-ad87e6159035
+
+앱의 실행 영상입니다.  
